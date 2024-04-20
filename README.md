@@ -1,1 +1,3 @@
+## House Price Prediction:
+
 Welcome to the Ames Housing Price Prediction Project! This project is based on a comprehensive dataset that includes 79 explanatory variables describing almost every aspect of residential homes in Ames, Iowa. The goal of this project is to predict the final price of each home, providing valuable insights into the real estate market. The objective of this project is to apply creative feature engineering and advanced regression techniques to predict the final sale price of the homes. By doing so, we aim to understand the factors that significantly impact the price negotiations in the real estate market.
